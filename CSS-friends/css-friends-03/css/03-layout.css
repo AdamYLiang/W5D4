@@ -3,7 +3,8 @@
 .content {
   display: flex;
   margin: 0 auto;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
